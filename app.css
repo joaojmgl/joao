@@ -1,0 +1,32 @@
+body {
+    background-color: green
+    ;
+
+}
+table, td, tr {
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    padding: 15px;
+    table-layout: auto;
+    background-color: cornsilk;
+
+}
+ #texto  {
+     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: honeydew;
+}
+ 
+
+h1{
+    color: honeydew;
+}
+h2 {
+    text-align: center;
+    color: honeydew;
+}
+
+
+
+
